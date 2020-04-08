@@ -1,0 +1,2 @@
+arabic-reshaper==2.0.15
+pyperclip==1.6.4
